@@ -16,6 +16,12 @@ Employee burnout dataset with variables such as:
 - Work mode
 - Burnout level
 
+- Dataset Source:
+
+Employee Mental Health & Burnout Dataset (Kaggle)
+
+https://www.kaggle.com/
+
 ## Analysis Performed
 
 ### 1. Burnout Level Distribution
