@@ -1,2 +1,49 @@
-# employee-burnout-analysis
+# Employee Burnout Analysis
+
 My first Python data analysis project using Pandas and Matplotlib.
+
+## Project Goal
+
+This project explores factors associated with employee burnout.
+
+## Dataset
+
+Employee burnout dataset with variables such as:
+
+- Work hours
+- Sleep hours
+- Stress level
+- Work mode
+- Burnout level
+
+## Analysis Performed
+
+### 1. Burnout Level Distribution
+
+Counted employees with:
+
+- Low burnout
+- Moderate burnout
+- High burnout
+
+### 2. Stress vs Burnout
+
+Calculated average stress level for each burnout category and visualized the results.
+
+### 3. Sleep vs Burnout
+
+Calculated average sleep hours for each burnout category and visualized the results.
+
+### 4. Work Hours vs Burnout
+
+Calculated average weekly work hours for each burnout category and visualized the results.
+
+## Tools Used
+
+- Python
+- Pandas
+- Matplotlib
+
+## Author
+
+Negar Zalpour
