@@ -7,6 +7,12 @@ My first Python data analysis project using Pandas and Matplotlib.
 This project explores factors associated with employee burnout.
 
 ## Dataset
+Source:
+
+Employee Mental Health & Burnout Dataset
+
+https://www.kaggle.com/datasets/......
+
 
 Employee burnout dataset with variables such as:
 
@@ -16,11 +22,6 @@ Employee burnout dataset with variables such as:
 - Work mode
 - Burnout level
 
-- Dataset Source:
-
-Employee Mental Health & Burnout Dataset (Kaggle)
-
-https://www.kaggle.com/
 
 ## Analysis Performed
 
