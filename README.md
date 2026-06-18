@@ -45,7 +45,7 @@ Calculated average sleep hours for each burnout category and visualized the resu
 
 Calculated average weekly work hours for each burnout category and visualized the results.
 
-##Key Findings
+## Key Findings
 
 - Employees with higher burnout levels reported higher stress levels.
 - Employees with higher burnout levels slept fewer hours on average.
